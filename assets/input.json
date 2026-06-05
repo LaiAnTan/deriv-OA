@@ -1,0 +1,2 @@
+[ { "id": "1", "prompt": "What is 2 + 2?", "reference_answer": "4", "model_answer": "The answer is 4." }, { "id": "2", "prompt": "Name one primary color.", "reference_answer": "red", "model_answer": "blue" }, { "id": "3", "prompt": "What planet do humans live on?", "reference_answer": "Earth", "model_answer": "Humans live on Earth." }, { "id": "4", "prompt": "Reply with exactly: approved", "reference_answer": "approved", "model_answer": "Approved" } ]
+
